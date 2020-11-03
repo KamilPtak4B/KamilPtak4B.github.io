@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(211, 211, 211);
+}
+h1 {
+  color: #ff0000;
+}
+footer {
+  background-color: beige;
+}
+main {
+  color: pink;
+}
+nav {
+  background-color: plum;
+}
+ul {
+  color: purple;
+}
